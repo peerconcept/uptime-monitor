@@ -19,8 +19,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /uptime-monitor
+  cname: status.peerconcept.com
+  #baseUrl: /uptime-monitor
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   logoUrl: https://media-exp1.licdn.com/dms/image/C4D0BAQFEIVCCESYEiQ/company-logo_200_200/0/1653762809136?e=2147483647&v=beta&t=8VgPDLOswn7l453v9wPC3tCLeXdAibGld6GwXDL9OD0
   name: Uptime Monitor
