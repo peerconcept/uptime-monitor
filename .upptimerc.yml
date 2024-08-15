@@ -25,7 +25,8 @@ status-website:
   logoUrl: https://media-exp1.licdn.com/dms/image/C4D0BAQFEIVCCESYEiQ/company-logo_200_200/0/1653762809136?e=2147483647&v=beta&t=8VgPDLOswn7l453v9wPC3tCLeXdAibGld6GwXDL9OD0
   name: Uptime Monitor
   theme: dark
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: ""
   introMessage: This is the status page for all the websites and online services monitored by PeerConcept.
   navbar:
     - title: Status
