@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-16": 95,
+      "2024-08-16": 1047,
       "2024-08-15": 737
     }
   },
@@ -32,7 +32,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 258,
-    "timeDay": 258,
+    "timeDay": 281,
     "timeWeek": 258,
     "timeMonth": 258,
     "timeYear": 258,
@@ -43,18 +43,20 @@
     "url": "https://staging.mykidstales.com",
     "icon": "https://icons.duckduckgo.com/ip3/staging.mykidstales.com.ico",
     "slug": "mkt-staging",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 535,
-    "timeDay": 535,
-    "timeWeek": 535,
-    "timeMonth": 535,
-    "timeYear": 535,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 531,
+    "timeDay": 509,
+    "timeWeek": 531,
+    "timeMonth": 531,
+    "timeYear": 531,
+    "dailyMinutesDown": {
+      "2024-08-16": 0
+    }
   },
   {
     "name": "MKT prod",
@@ -68,7 +70,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 536,
-    "timeDay": 536,
+    "timeDay": 460,
     "timeWeek": 536,
     "timeMonth": 536,
     "timeYear": 536,
@@ -79,18 +81,20 @@
     "url": "$URL_MKT_API_STAGING",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mkt-api-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 140,
-    "timeDay": 140,
-    "timeWeek": 140,
-    "timeMonth": 140,
-    "timeYear": 140,
-    "dailyMinutesDown": {}
+    "time": 138,
+    "timeDay": 122,
+    "timeWeek": 138,
+    "timeMonth": 138,
+    "timeYear": 138,
+    "dailyMinutesDown": {
+      "2024-08-16": 0
+    }
   },
   {
     "name": "MKT API prod",
@@ -104,12 +108,12 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 140,
-    "timeDay": 140,
+    "timeDay": 113,
     "timeWeek": 140,
     "timeMonth": 140,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2024-08-16": 95,
+      "2024-08-16": 1047,
       "2024-08-15": 737
     }
   }
