@@ -5,6 +5,7 @@ repo: uptime-monitor # The name of this repository
 sites:
   - name: Auction Forecast
     url: https://auctionforecast.com
+    __dangerous__insecure: true
   - name: PeerConcept
     url: https://peerconcept.com
   - name: MKT staging
