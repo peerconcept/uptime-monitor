@@ -1,7 +1,7 @@
 url: https://staging.mykidstales.com
-status: down
-code: 502
-responseTime: 1370
-lastUpdated: 2024-08-20T10:57:37.728Z
+status: up
+code: 200
+responseTime: 1146
+lastUpdated: 2024-08-20T11:49:12.686Z
 startTime: 2024-08-15T11:43:04.851Z
 generator: Upptime <https://github.com/upptime/upptime>
