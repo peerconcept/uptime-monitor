@@ -24,10 +24,15 @@ sites:
       - bob-the-coder
   - name: Deep Future Analytics (production)
     url: https://mgr.dfacecl.com/
+    expectedStatusCodes:
+      - 405
+      - 200
   - name: Deep Future Analytics API (production)
     url: https://mgr.dfacecl.com/api/v1/user/sign-in/
     method: POST
     body: '{"email": "hello@monitoring", "password": "secret"}' 
+    expectedStatusCodes:
+      - 403
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
