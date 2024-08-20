@@ -6,12 +6,16 @@ sites:
   - name: Auction Forecast
     url: https://auctionforecast.com
     __dangerous__insecure: true
+    assignees:
+      - bob-the-coder
   - name: PeerConcept
     url: https://peerconcept.com
   - name: MKT staging
     url: https://staging.mykidstales.com
   - name: MKT prod
     url: https://mykidstales.com
+    assignees:
+      - bob-the-coder
   - name: MKT API staging
     url: $URL_MKT_API_STAGING
   - name: MKT API prod
