@@ -33,6 +33,7 @@ sites:
     method: POST
     body: '{"email": "hello@monitoring", "password": "secret"}' 
     expectedStatusCodes:
+      - 200
       - 403
 
 status-website:
