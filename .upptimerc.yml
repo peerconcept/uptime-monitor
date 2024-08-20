@@ -20,6 +20,16 @@ sites:
     url: $URL_MKT_API_STAGING
   - name: MKT API prod
     url: $URL_MKT_API_PRODUCTION
+    assignees:
+      - bob-the-coder
+  - name: Deep Future Analytics (production)
+    url: https://mgr.dfacecl.com/
+    expectedStatusCodes:
+      - 405
+  - name: Deep Future Analytics API (production)
+    url: https://mgr.dfacecl.com/api/v1/user/sign-in/
+    method: POST
+    body: '{"email": "hello@monitoring", "password": "secret"}' 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
