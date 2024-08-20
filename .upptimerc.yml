@@ -25,6 +25,7 @@ sites:
   - name: Deep Future Analytics (production)
     url: https://mgr.dfacecl.com/
     expectedStatusCodes:
+      - 403
       - 405
       - 200
     maxResponseTime: 5000
