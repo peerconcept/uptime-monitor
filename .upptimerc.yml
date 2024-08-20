@@ -24,8 +24,6 @@ sites:
       - bob-the-coder
   - name: Deep Future Analytics (production)
     url: https://mgr.dfacecl.com/
-    expectedStatusCodes:
-      - 405
   - name: Deep Future Analytics API (production)
     url: https://mgr.dfacecl.com/api/v1/user/sign-in/
     method: POST
