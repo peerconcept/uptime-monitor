@@ -13,11 +13,13 @@ sites:
     method: GET
     expectedStatusCodes:
       - 403
+      - 200
   - name: Blue Mountain Loans (production)
     url: https://bluemountainloans.com
     method: GET
     expectedStatusCodes:
       - 403
+      - 200
   - name: MKT (production)
     url: https://mykidstales.com
     assignees:
