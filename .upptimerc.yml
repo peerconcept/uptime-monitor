@@ -10,8 +10,10 @@ sites:
       - bob-the-coder
   - name: America's Cash Advance (production)
     url: https://americascashadvanceinc.com
+    method: GET
   - name: Blue Mountain Loans (production)
     url: https://bluemountainloans.com
+    method: GET
   - name: MKT (production)
     url: https://mykidstales.com
     assignees:
