@@ -1,7 +1,7 @@
 url: https://mgr.dfacecl.com/api/v1/user/sign-in/
 status: up
-code: 200
-responseTime: 143
-lastUpdated: 2024-09-08T23:13:36.799Z
+code: 403
+responseTime: 27
+lastUpdated: 2024-09-09T13:25:25.078Z
 startTime: 2024-08-20T07:53:35.768Z
 generator: Upptime <https://github.com/upptime/upptime>
