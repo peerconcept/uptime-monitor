@@ -1,7 +1,7 @@
 url: $URL_MKT_API_PRODUCTION
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-13T10:17:00.377Z
+status: up
+code: 200
+responseTime: 116
+lastUpdated: 2024-09-13T10:34:19.375Z
 startTime: 2024-08-22T10:47:41.053Z
 generator: Upptime <https://github.com/upptime/upptime>
