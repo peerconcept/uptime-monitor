@@ -1,7 +1,7 @@
 url: $URL_MKT_API_STAGING
-status: down
-code: 502
-responseTime: 130
-lastUpdated: 2024-09-17T11:55:28.281Z
+status: up
+code: 200
+responseTime: 118
+lastUpdated: 2024-09-17T12:20:47.833Z
 startTime: 2024-08-15T11:43:06.361Z
 generator: Upptime <https://github.com/upptime/upptime>
