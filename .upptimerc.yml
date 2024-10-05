@@ -11,7 +11,7 @@ sites:
   - name: America's Cash Advance (production)
     url: https://americascashadvanceinc.com
     method: GET
-    maxResponseTime: 1000
+    maxResponseTime: 3000
     expectedStatusCodes:
       - 403
       - 200
